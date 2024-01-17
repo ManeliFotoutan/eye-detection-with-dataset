@@ -18,7 +18,7 @@ Run the script, and a window will appear showing the video feed from your camera
 Google Drive Dataset
 To use your Google Drive as a dataset source, follow these steps:
 
-Open the Colab notebook provided [here][https://colab.research.google.com/drive/1fKqnTzuA_wGMzEiFRN5T_BwBgTWXcvna#scrollTo=87JOCmVGWDBj]
+Open the Colab notebook provided [Link Text](https://colab.research.google.com/drive/1fKqnTzuA_wGMzEiFRN5T_BwBgTWXcvna#scrollTo=87JOCmVGWDBj)
 
 Mount your Google Drive using the following code snippet:
 
