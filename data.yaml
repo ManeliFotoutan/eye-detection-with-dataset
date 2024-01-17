@@ -1,0 +1,7 @@
+path: ../drive/MyDrive/eye-detection
+train: ../train/images 
+test: ../test/images
+
+nc: 1
+names: ['eye']
+
